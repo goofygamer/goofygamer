@@ -28,7 +28,7 @@ I am a Econ + Math graduate from UNCW with a passion to code.
 
 - Currently, I am utilizing my time learning data structure concepts and implementing them through various projects.
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sankalp_Yadav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-yadav/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sankalp_Yadav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-yadav/) or [![Website](https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.sankalp-yadav.com/)
 
 ---
 
