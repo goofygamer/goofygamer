@@ -1,6 +1,5 @@
 <h1 align="center">
   hey there, this is Sankalp!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sankalp-yadav/">
@@ -22,10 +21,10 @@
 
 ### :woman_technologist: About Me:
 
-I am a Econ + Math graduate from UNCW with a passion to code.
+I am pursuing my Master's in FinMath from UChicago and **actively pursuing opportunities in the field of Quant Research and Development**. Prior to that, I graduated with a Econ + Math degree from UNCW.
 
-- I spent my time at UNCW researching a wide of array of topics in macroeconmic policies in the United States.
-
+- For the last two years, I worked as a Macroeconomic Researcher at the Federal Reserve Bank of Chicago.
+- I had a wide range of responsibilities at the Fed including simulation modeling, stochastic and markov processes, low-level optimization, and data manipulation for extremely large datasets.
 - Currently, I am utilizing my time learning data structure concepts and implementing them through various projects.
 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sankalp_Yadav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-yadav/) or [![Website](https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.sankalp-yadav.com/)
@@ -36,7 +35,9 @@ I am a Econ + Math graduate from UNCW with a passion to code.
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="NodeJS" alt="RStudio" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original-wordmark.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="NodeJS" alt="RStudio" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
