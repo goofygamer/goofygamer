@@ -1,5 +1,5 @@
 <h1 align="center">
-  hey there, this is Sankalp!
+  Hello, I am Sankalp and welcome to my GitHub profile!
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sankalp-yadav/">
@@ -11,10 +11,6 @@
   <a href="https://leetcode.com/revampszn/">
     <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" height="200"/>
 </div>
 
 ---
